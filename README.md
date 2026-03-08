@@ -16,8 +16,7 @@ A simple, interactive Employee Database Management System (DBMS) web application
 - **Framework:** Bootstrap 5 (via CDN for rapid styling)
 - **Icons:** Bootstrap Icons
 
-<video src="WhatsApp Video 2026-03-08 at 2.13.03 PM.mp4" width="600" controls>
-</video>
+[Watch the demo](path/to/your/video.mp4)
 
 **Expected Output:** When you open the application, you will see a modern dashboard with a welcome hero section at the top. Below that are filter buttons ("All Staff", "Male", "Female") and a search bar. The bottom section displays an interactive table listing all the employees loaded from `script-EBMS.js`. By typing in the search bar or clicking the filters, the table will instantly update its contents.
 
